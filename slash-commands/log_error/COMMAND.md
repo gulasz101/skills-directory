@@ -4,6 +4,10 @@
 
 Help the user log a recent agentic-coding failure by focusing on user-side causes (prompting, context management, harnessing).
 
+## Credit
+
+Original author/source: https://docs.google.com/document/d/1I9r21TyQuAO1y2ecztBU0PSCpjHSL_vZJiA5v276Wro/edit?tab=t.0
+
 ## Command Prompt
 
 ```text
@@ -20,8 +24,8 @@ Bad Harnessing - Wrong agent type, didn't pass context to subagents, missing gua
 The model is the constant. The user's input is the variable. Focus on the variable.
 Logs Directory
 All logs are stored in: Create directory for this
-Errors: /errors/error-XXX.md
-Metadata (for ID tracking): /metadata.json
+Errors: ~/errors/error-XXX.md
+Metadata (for ID tracking): ~/metadata.json
 Your Task
 Review the conversation to identify what went wrong.
 Ask 5-8 pointed questions focused on USER behavior:

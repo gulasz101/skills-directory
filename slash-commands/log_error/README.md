@@ -6,6 +6,10 @@ Portable slash-command package for:
 - Codex
 - OpenCode
 
+## Credit
+
+Original author/source: https://docs.google.com/document/d/1I9r21TyQuAO1y2ecztBU0PSCpjHSL_vZJiA5v276Wro/edit?tab=t.0
+
 ## Canonical prompt
 
 Use `COMMAND.md` as the source of truth.
@@ -20,7 +24,7 @@ Use `COMMAND.md` as the source of truth.
 
 The command expects:
 
-- `/errors/error-XXX.md`
-- `/metadata.json`
+- `~/errors/error-XXX.md`
+- `~/metadata.json`
 
-Create these in your active project when using the command.
+Create these under your home directory when using the command.
