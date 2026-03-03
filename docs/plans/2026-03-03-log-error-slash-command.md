@@ -12,4 +12,4 @@ Scope: Bootstrap `skills-directory`, add `log_error` slash command package, publ
 5. Initialize git and commit.
 6. Create public GitHub repository and push.
 
-Commit: 83cfcb0
+Commit: 36192e3
